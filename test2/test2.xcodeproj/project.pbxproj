@@ -15,6 +15,20 @@
 		5EA1D2432AD611C8001A0B15 /* desafio2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2422AD611C8001A0B15 /* desafio2.swift */; };
 		5EA1D2452AD6192A001A0B15 /* desafio3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2442AD6192A001A0B15 /* desafio3.swift */; };
 		5EA1D2472AD61E71001A0B15 /* desafio4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2462AD61E71001A0B15 /* desafio4.swift */; };
+		5EA1D2492AD7558A001A0B15 /* desafio5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2482AD7558A001A0B15 /* desafio5.swift */; };
+		5EA1D24B2AD756A8001A0B15 /* desafio5_tela2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D24A2AD756A8001A0B15 /* desafio5_tela2.swift */; };
+		5EA1D24D2AD756FD001A0B15 /* desafio5_tela3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D24C2AD756FD001A0B15 /* desafio5_tela3.swift */; };
+		5EA1D24F2ADDED74001A0B15 /* spotifas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D24E2ADDED74001A0B15 /* spotifas.swift */; };
+		5EA1D2522ADDEE31001A0B15 /* musicas_struct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2512ADDEE31001A0B15 /* musicas_struct.swift */; };
+		5EA1D2542ADDF01F001A0B15 /* player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2532ADDF01F001A0B15 /* player.swift */; };
+		5EA1D2592ADF383A001A0B15 /* desafio_6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2582ADF383A001A0B15 /* desafio_6.swift */; };
+		5EA1D25B2ADF38A2001A0B15 /* desafio_6_home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D25A2ADF38A2001A0B15 /* desafio_6_home.swift */; };
+		5EA1D25D2ADF3958001A0B15 /* desafio_6_search.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D25C2ADF3958001A0B15 /* desafio_6_search.swift */; };
+		5EA1D25F2ADF39BE001A0B15 /* desafio_6_photos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D25E2ADF39BE001A0B15 /* desafio_6_photos.swift */; };
+		5EA1D2612ADF3D8E001A0B15 /* desafio_6_message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2602ADF3D8E001A0B15 /* desafio_6_message.swift */; };
+		5EA1D2632ADF3DCD001A0B15 /* desafio_6_profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2622ADF3DCD001A0B15 /* desafio_6_profile.swift */; };
+		5EA1D2652ADF3F08001A0B15 /* desafio5_tela1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2642ADF3F08001A0B15 /* desafio5_tela1.swift */; };
+		5EA1D2672ADF3FDD001A0B15 /* desafio5_tela2_tela2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EA1D2662ADF3FDD001A0B15 /* desafio5_tela2_tela2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +41,20 @@
 		5EA1D2422AD611C8001A0B15 /* desafio2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio2.swift; sourceTree = "<group>"; };
 		5EA1D2442AD6192A001A0B15 /* desafio3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio3.swift; sourceTree = "<group>"; };
 		5EA1D2462AD61E71001A0B15 /* desafio4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio4.swift; sourceTree = "<group>"; };
+		5EA1D2482AD7558A001A0B15 /* desafio5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio5.swift; sourceTree = "<group>"; };
+		5EA1D24A2AD756A8001A0B15 /* desafio5_tela2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio5_tela2.swift; sourceTree = "<group>"; };
+		5EA1D24C2AD756FD001A0B15 /* desafio5_tela3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio5_tela3.swift; sourceTree = "<group>"; };
+		5EA1D24E2ADDED74001A0B15 /* spotifas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = spotifas.swift; sourceTree = "<group>"; };
+		5EA1D2512ADDEE31001A0B15 /* musicas_struct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicas_struct.swift; sourceTree = "<group>"; };
+		5EA1D2532ADDF01F001A0B15 /* player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = player.swift; sourceTree = "<group>"; };
+		5EA1D2582ADF383A001A0B15 /* desafio_6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio_6.swift; sourceTree = "<group>"; };
+		5EA1D25A2ADF38A2001A0B15 /* desafio_6_home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio_6_home.swift; sourceTree = "<group>"; };
+		5EA1D25C2ADF3958001A0B15 /* desafio_6_search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio_6_search.swift; sourceTree = "<group>"; };
+		5EA1D25E2ADF39BE001A0B15 /* desafio_6_photos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio_6_photos.swift; sourceTree = "<group>"; };
+		5EA1D2602ADF3D8E001A0B15 /* desafio_6_message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio_6_message.swift; sourceTree = "<group>"; };
+		5EA1D2622ADF3DCD001A0B15 /* desafio_6_profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio_6_profile.swift; sourceTree = "<group>"; };
+		5EA1D2642ADF3F08001A0B15 /* desafio5_tela1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio5_tela1.swift; sourceTree = "<group>"; };
+		5EA1D2662ADF3FDD001A0B15 /* desafio5_tela2_tela2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desafio5_tela2_tela2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +87,8 @@
 		5EA1D2312AD60230001A0B15 /* test2 */ = {
 			isa = PBXGroup;
 			children = (
+				5EA1D2552ADF36C8001A0B15 /* Desafios5_6 */,
+				5EA1D2502ADDED8F001A0B15 /* SpotifyProject */,
 				5EA1D2322AD60230001A0B15 /* test2App.swift */,
 				5EA1D2342AD60230001A0B15 /* ContentView.swift */,
 				5EA1D2402AD60299001A0B15 /* desafio1.swift */,
@@ -77,6 +107,34 @@
 				5EA1D2392AD60231001A0B15 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5EA1D2502ADDED8F001A0B15 /* SpotifyProject */ = {
+			isa = PBXGroup;
+			children = (
+				5EA1D24E2ADDED74001A0B15 /* spotifas.swift */,
+				5EA1D2512ADDEE31001A0B15 /* musicas_struct.swift */,
+				5EA1D2532ADDF01F001A0B15 /* player.swift */,
+			);
+			path = SpotifyProject;
+			sourceTree = "<group>";
+		};
+		5EA1D2552ADF36C8001A0B15 /* Desafios5_6 */ = {
+			isa = PBXGroup;
+			children = (
+				5EA1D2482AD7558A001A0B15 /* desafio5.swift */,
+				5EA1D2642ADF3F08001A0B15 /* desafio5_tela1.swift */,
+				5EA1D24A2AD756A8001A0B15 /* desafio5_tela2.swift */,
+				5EA1D24C2AD756FD001A0B15 /* desafio5_tela3.swift */,
+				5EA1D2582ADF383A001A0B15 /* desafio_6.swift */,
+				5EA1D25A2ADF38A2001A0B15 /* desafio_6_home.swift */,
+				5EA1D25C2ADF3958001A0B15 /* desafio_6_search.swift */,
+				5EA1D25E2ADF39BE001A0B15 /* desafio_6_photos.swift */,
+				5EA1D2602ADF3D8E001A0B15 /* desafio_6_message.swift */,
+				5EA1D2622ADF3DCD001A0B15 /* desafio_6_profile.swift */,
+				5EA1D2662ADF3FDD001A0B15 /* desafio5_tela2_tela2.swift */,
+			);
+			path = Desafios5_6;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,11 +207,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EA1D2612ADF3D8E001A0B15 /* desafio_6_message.swift in Sources */,
+				5EA1D24F2ADDED74001A0B15 /* spotifas.swift in Sources */,
 				5EA1D2352AD60230001A0B15 /* ContentView.swift in Sources */,
+				5EA1D24D2AD756FD001A0B15 /* desafio5_tela3.swift in Sources */,
 				5EA1D2332AD60230001A0B15 /* test2App.swift in Sources */,
+				5EA1D2542ADDF01F001A0B15 /* player.swift in Sources */,
 				5EA1D2472AD61E71001A0B15 /* desafio4.swift in Sources */,
+				5EA1D2672ADF3FDD001A0B15 /* desafio5_tela2_tela2.swift in Sources */,
+				5EA1D2592ADF383A001A0B15 /* desafio_6.swift in Sources */,
+				5EA1D2652ADF3F08001A0B15 /* desafio5_tela1.swift in Sources */,
+				5EA1D2492AD7558A001A0B15 /* desafio5.swift in Sources */,
 				5EA1D2432AD611C8001A0B15 /* desafio2.swift in Sources */,
+				5EA1D25D2ADF3958001A0B15 /* desafio_6_search.swift in Sources */,
+				5EA1D25B2ADF38A2001A0B15 /* desafio_6_home.swift in Sources */,
+				5EA1D2522ADDEE31001A0B15 /* musicas_struct.swift in Sources */,
 				5EA1D2452AD6192A001A0B15 /* desafio3.swift in Sources */,
+				5EA1D2632ADF3DCD001A0B15 /* desafio_6_profile.swift in Sources */,
+				5EA1D25F2ADF39BE001A0B15 /* desafio_6_photos.swift in Sources */,
+				5EA1D24B2AD756A8001A0B15 /* desafio5_tela2.swift in Sources */,
 				5EA1D2412AD6029A001A0B15 /* desafio1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

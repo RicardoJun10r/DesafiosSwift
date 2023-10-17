@@ -11,10 +11,10 @@ struct desafio1: View {
     var body: some View {
         VStack{
             Image("truck")
-                .resizable()
-                .scaledToFit()
-            Text("HackaTruck")
-                .foregroundColor(.blue)
+                            .resizable()
+                            .scaledToFit()
+                        Text("HackaTruck")
+                            .foregroundColor(.blue)
             HStack{
                 Text("Maker")
                     .foregroundColor(.yellow)
